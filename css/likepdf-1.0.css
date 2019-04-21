@@ -1,0 +1,47 @@
+.likePdf-container {          
+    min-height: 600px;
+    padding: 25px;
+    background-color: #fffdf8;
+    box-shadow: 5px 5px 5px grey;
+    margin: auto;
+    width: 60%;
+  }
+
+  .likePdf-body{            
+      text-align: justify;         
+      padding-bottom: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
+  }        
+
+  .likePdf-header{
+      text-align: center;
+      font-size: 21px;
+      padding-bottom: 10px;            
+  }        
+
+  .likePdf-container .edit{
+      display: none;
+  }
+
+  .likePdf-container label {
+      font-weight: bold;
+      margin-right: 5px;
+  }
+
+  .likePdf-container .close {
+      float: right;
+  }
+
+  .likePdf-container span:hover {
+      color: blue;
+      cursor: pointer;
+  }
+
+  .likePdf-box{
+      border: 1px solid grey;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-bottom: 10px;
+  }
+
