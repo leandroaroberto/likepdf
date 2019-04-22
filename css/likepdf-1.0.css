@@ -24,6 +24,10 @@
       display: none;
   }
 
+  .likePdf-container .disabled{
+    display: none;
+   }
+
   .likePdf-container label {
       font-weight: bold;
       margin-right: 5px;
